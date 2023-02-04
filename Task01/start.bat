@@ -1,2 +1,2 @@
 #!/bin/bash
-start hello.php
+php hello.php
