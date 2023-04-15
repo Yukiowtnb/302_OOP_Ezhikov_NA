@@ -72,9 +72,4 @@ class Stack
             return $full;
         }
     }
-
-    public function size()
-    {
-        return $this->top_number + 1;
-    }
 }
