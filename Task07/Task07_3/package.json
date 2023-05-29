@@ -1,0 +1,30 @@
+{
+  "author": "",
+  "dependencies": {
+    "@angular-devkit/schematics": "^16.0.3",
+    "expect": "^29.5.0"
+  },
+  "description": "My test application",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/eslint-parser": "^7.21.8",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.41.0",
+    "jest": "^29.5.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "Task07_3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yukiowtnb/302_OOP_Ezhikov_NA"
+  },
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
